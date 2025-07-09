@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 CALSCALE:GREGORIAN
-PRODID:-//Meal Plan Calendar//EN
+PRODID:-//Meal Plan Calendar with Prep Details//EN
 BEGIN:VTIMEZONE
 TZID:America/Toronto
 X-LIC-LOCATION:America/Toronto
@@ -21,355 +21,35 @@ RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:breakfast-0@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250713T060000
-DTEND;TZID=America/Toronto:20250713T063000
-SUMMARY:Breakfast: Oatmeal with Berries
-DESCRIPTION:Oatmeal with Berries
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-0@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250713T120000
-DTEND;TZID=America/Toronto:20250713T123000
-SUMMARY:Lunch: Turkey Sandwich
-DESCRIPTION:Turkey Sandwich
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-0@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250713T163000
-DTEND;TZID=America/Toronto:20250713T170000
-SUMMARY:Dinner: Pork Chops with Roast Veg
-DESCRIPTION:Pork Chops with Roast Veg
-END:VEVENT
-BEGIN:VEVENT
-UID:breakfast-1@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250714T060000
-DTEND;TZID=America/Toronto:20250714T063000
-SUMMARY:Breakfast: Greek Yogurt Parfait
-DESCRIPTION:Greek Yogurt Parfait
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-1@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250714T120000
-DTEND;TZID=America/Toronto:20250714T123000
-SUMMARY:Lunch: Quinoa Salad
-DESCRIPTION:Quinoa Salad
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-1@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250714T163000
-DTEND;TZID=America/Toronto:20250714T170000
-SUMMARY:Dinner: Spaghetti with Meat Sauce
-DESCRIPTION:Spaghetti with Meat Sauce
-END:VEVENT
-BEGIN:VEVENT
-UID:breakfast-2@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250715T060000
-DTEND;TZID=America/Toronto:20250715T063000
-SUMMARY:Breakfast: Smoothie
-DESCRIPTION:Smoothie
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-2@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250715T120000
-DTEND;TZID=America/Toronto:20250715T123000
-SUMMARY:Lunch: Stir Fry
-DESCRIPTION:Stir Fry
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-2@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250715T163000
-DTEND;TZID=America/Toronto:20250715T170000
-SUMMARY:Dinner: Tacos
-DESCRIPTION:Tacos
-END:VEVENT
-BEGIN:VEVENT
-UID:breakfast-3@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250716T060000
-DTEND;TZID=America/Toronto:20250716T063000
-SUMMARY:Breakfast: Avocado Toast
-DESCRIPTION:Avocado Toast
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-3@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250716T120000
-DTEND;TZID=America/Toronto:20250716T123000
-SUMMARY:Lunch: Leftovers
-DESCRIPTION:Leftovers
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-3@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250716T163000
-DTEND;TZID=America/Toronto:20250716T170000
-SUMMARY:Dinner: Chicken and Rice
-DESCRIPTION:Chicken and Rice
-END:VEVENT
-BEGIN:VEVENT
-UID:breakfast-4@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250717T060000
-DTEND;TZID=America/Toronto:20250717T063000
-SUMMARY:Breakfast: Cereal
-DESCRIPTION:Cereal
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-4@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250717T120000
-DTEND;TZID=America/Toronto:20250717T123000
-SUMMARY:Lunch: Soup and Salad
-DESCRIPTION:Soup and Salad
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-4@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250717T163000
-DTEND;TZID=America/Toronto:20250717T170000
-SUMMARY:Dinner: Pizza Night
-DESCRIPTION:Pizza Night
-END:VEVENT
-BEGIN:VEVENT
-UID:breakfast-5@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250718T060000
-DTEND;TZID=America/Toronto:20250718T063000
-SUMMARY:Breakfast: Pancakes
-DESCRIPTION:Pancakes
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-5@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250718T120000
-DTEND;TZID=America/Toronto:20250718T123000
-SUMMARY:Lunch: Wraps
-DESCRIPTION:Wraps
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-5@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250718T163000
-DTEND;TZID=America/Toronto:20250718T170000
-SUMMARY:Dinner: BBQ Night
-DESCRIPTION:BBQ Night
-END:VEVENT
-BEGIN:VEVENT
-UID:breakfast-6@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250719T060000
-DTEND;TZID=America/Toronto:20250719T063000
-SUMMARY:Breakfast: Egg Muffins
-DESCRIPTION:Egg Muffins
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-6@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250719T120000
-DTEND;TZID=America/Toronto:20250719T123000
-SUMMARY:Lunch: Grain Bowl
-DESCRIPTION:Grain Bowl
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-6@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250719T163000
-DTEND;TZID=America/Toronto:20250719T170000
-SUMMARY:Dinner: Stuffed Peppers
-DESCRIPTION:Stuffed Peppers
-END:VEVENT
-BEGIN:VEVENT
-UID:breakfast-7@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250720T060000
-DTEND;TZID=America/Toronto:20250720T063000
-SUMMARY:Breakfast: Oatmeal with Berries
-DESCRIPTION:Oatmeal with Berries
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-7@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250720T120000
-DTEND;TZID=America/Toronto:20250720T123000
-SUMMARY:Lunch: Turkey Sandwich
-DESCRIPTION:Turkey Sandwich
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-7@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250720T163000
-DTEND;TZID=America/Toronto:20250720T170000
-SUMMARY:Dinner: Pork Chops with Roast Veg
-DESCRIPTION:Pork Chops with Roast Veg
-END:VEVENT
-BEGIN:VEVENT
-UID:breakfast-8@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250721T060000
-DTEND;TZID=America/Toronto:20250721T063000
-SUMMARY:Breakfast: Greek Yogurt Parfait
-DESCRIPTION:Greek Yogurt Parfait
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-8@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250721T120000
-DTEND;TZID=America/Toronto:20250721T123000
-SUMMARY:Lunch: Quinoa Salad
-DESCRIPTION:Quinoa Salad
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-8@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250721T163000
-DTEND;TZID=America/Toronto:20250721T170000
-SUMMARY:Dinner: Spaghetti with Meat Sauce
-DESCRIPTION:Spaghetti with Meat Sauce
-END:VEVENT
-BEGIN:VEVENT
-UID:breakfast-9@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250722T060000
-DTEND;TZID=America/Toronto:20250722T063000
-SUMMARY:Breakfast: Smoothie
-DESCRIPTION:Smoothie
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-9@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250722T120000
-DTEND;TZID=America/Toronto:20250722T123000
-SUMMARY:Lunch: Stir Fry
-DESCRIPTION:Stir Fry
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-9@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250722T163000
-DTEND;TZID=America/Toronto:20250722T170000
-SUMMARY:Dinner: Tacos
-DESCRIPTION:Tacos
-END:VEVENT
-BEGIN:VEVENT
-UID:breakfast-10@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250723T060000
-DTEND;TZID=America/Toronto:20250723T063000
-SUMMARY:Breakfast: Avocado Toast
-DESCRIPTION:Avocado Toast
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-10@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250723T120000
-DTEND;TZID=America/Toronto:20250723T123000
-SUMMARY:Lunch: Leftovers
-DESCRIPTION:Leftovers
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-10@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250723T163000
-DTEND;TZID=America/Toronto:20250723T170000
-SUMMARY:Dinner: Chicken and Rice
-DESCRIPTION:Chicken and Rice
-END:VEVENT
-BEGIN:VEVENT
-UID:breakfast-11@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250724T060000
-DTEND;TZID=America/Toronto:20250724T063000
-SUMMARY:Breakfast: Cereal
-DESCRIPTION:Cereal
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-11@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250724T120000
-DTEND;TZID=America/Toronto:20250724T123000
-SUMMARY:Lunch: Soup and Salad
-DESCRIPTION:Soup and Salad
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-11@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250724T163000
-DTEND;TZID=America/Toronto:20250724T170000
-SUMMARY:Dinner: Pizza Night
-DESCRIPTION:Pizza Night
-END:VEVENT
-BEGIN:VEVENT
-UID:breakfast-12@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250725T060000
-DTEND;TZID=America/Toronto:20250725T063000
-SUMMARY:Breakfast: Pancakes
-DESCRIPTION:Pancakes
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-12@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250725T120000
-DTEND;TZID=America/Toronto:20250725T123000
-SUMMARY:Lunch: Wraps
-DESCRIPTION:Wraps
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-12@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250725T163000
-DTEND;TZID=America/Toronto:20250725T170000
-SUMMARY:Dinner: BBQ Night
-DESCRIPTION:BBQ Night
-END:VEVENT
-BEGIN:VEVENT
-UID:breakfast-13@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250726T060000
-DTEND;TZID=America/Toronto:20250726T063000
-SUMMARY:Breakfast: Egg Muffins
-DESCRIPTION:Egg Muffins
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-13@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250726T120000
-DTEND;TZID=America/Toronto:20250726T123000
-SUMMARY:Lunch: Grain Bowl
-DESCRIPTION:Grain Bowl
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-13@mealplan.local
-DTSTAMP:20250709T151645Z
-DTSTART;TZID=America/Toronto:20250726T163000
-DTEND;TZID=America/Toronto:20250726T170000
-SUMMARY:Dinner: Stuffed Peppers
-DESCRIPTION:Stuffed Peppers
-END:VEVENT
-BEGIN:VEVENT
 UID:prep-20250713@mealplan.local
-DTSTAMP:20250709T151645Z
+DTSTAMP:20250709T160250Z
 DTSTART;TZID=America/Toronto:20250713T090000
 DTEND;TZID=America/Toronto:20250713T100000
 SUMMARY:Sunday Meal Prep
-DESCRIPTION:Chop vegetables, marinate meat, cook grains.
+DESCRIPTION:Sunday Meal Prep:\nCarrots (4 large): Peel and cut into sticks\nBell Peppers (4): Deseed and slice\nChicken Breasts (6): Marinate in lemon herb mix\nBroccoli (2 heads): Cut into florets\nSweet Potatoes (2 medium): Peel and cube\nRice (2 cups dry): Cook and portion\nEgg Muffins (6): Bake with spinach and cheese\nSmoothie Packs (5): Portion fruit into freezer bags\nLettuce (1 head): Wash and chop\nPasta (3 cups dry): Cook and toss with oil
 END:VEVENT
 BEGIN:VEVENT
 UID:prep-20250716@mealplan.local
-DTSTAMP:20250709T151645Z
+DTSTAMP:20250709T160250Z
 DTSTART;TZID=America/Toronto:20250716T160000
 DTEND;TZID=America/Toronto:20250716T170000
 SUMMARY:Midweek Meal Prep
-DESCRIPTION:Wash greens, portion leftovers, prep snacks.
+DESCRIPTION:Midweek Meal Prep:\nZucchini (2): Slice into rounds\nGround Beef (1 lb): Brown and season\nOnions (2): Dice\nQuinoa (1.5 cups dry): Cook and cool\nCucumbers (2): Slice\nPeaches (3): Slice and portion for yogurt or dessert\nChicken Thighs (4): Marinate in BBQ sauce\nRoasted Veggies (Mixed tray): Chop and roast with seasoning\nCheese (200g): Cube or shred\nGrain Bowls (2): Assemble with quinoa, roasted veg, and sauce
+END:VEVENT
+BEGIN:VEVENT
+UID:prep-20250720@mealplan.local
+DTSTAMP:20250709T160250Z
+DTSTART;TZID=America/Toronto:20250720T090000
+DTEND;TZID=America/Toronto:20250720T100000
+SUMMARY:Sunday Meal Prep
+DESCRIPTION:Sunday Meal Prep:\nCarrots (4 large): Peel and cut into sticks\nBell Peppers (4): Deseed and slice\nChicken Breasts (6): Marinate in lemon herb mix\nBroccoli (2 heads): Cut into florets\nSweet Potatoes (2 medium): Peel and cube\nRice (2 cups dry): Cook and portion\nEgg Muffins (6): Bake with spinach and cheese\nSmoothie Packs (5): Portion fruit into freezer bags\nLettuce (1 head): Wash and chop\nPasta (3 cups dry): Cook and toss with oil
+END:VEVENT
+BEGIN:VEVENT
+UID:prep-20250723@mealplan.local
+DTSTAMP:20250709T160250Z
+DTSTART;TZID=America/Toronto:20250723T160000
+DTEND;TZID=America/Toronto:20250723T170000
+SUMMARY:Midweek Meal Prep
+DESCRIPTION:Midweek Meal Prep:\nZucchini (2): Slice into rounds\nGround Beef (1 lb): Brown and season\nOnions (2): Dice\nQuinoa (1.5 cups dry): Cook and cool\nCucumbers (2): Slice\nPeaches (3): Slice and portion for yogurt or dessert\nChicken Thighs (4): Marinate in BBQ sauce\nRoasted Veggies (Mixed tray): Chop and roast with seasoning\nCheese (200g): Cube or shred\nGrain Bowls (2): Assemble with quinoa, roasted veg, and sauce
 END:VEVENT
 END:VCALENDAR
