@@ -1,421 +1,373 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//MealPlan//EN
 CALSCALE:GREGORIAN
-BEGIN:VTIMEZONE
-TZID:America/Toronto
-BEGIN:STANDARD
-TZOFFSETFROM:-0300
-TZOFFSETTO:-0400
-TZNAME:EST
-DTSTART:19701101T020000
-RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
-END:STANDARD
-BEGIN:DAYLIGHT
-TZOFFSETFROM:-0400
-TZOFFSETTO:-0300
-TZNAME:EDT
-DTSTART:19700308T020000
-RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
-END:DAYLIGHT
-END:VTIMEZONE
+PRODID:-//MealPlan v5//EN
 BEGIN:VEVENT
-UID:breakfast-0-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:breakfast-0-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250713T060000
 DTEND;TZID=America/Toronto:20250713T063000
 SUMMARY:Breakfast: Oatmeal with Berries
-DESCRIPTION:Oatmeal with Berries
+DESCRIPTION:Cooking instructions: Cook oats 5 min in milk/water. Top with berries & drizzle honey.\nIngredients prepped on Sunday Jul 13.
 END:VEVENT
 BEGIN:VEVENT
-UID:lunch-0-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:lunch-0-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250713T120000
 DTEND;TZID=America/Toronto:20250713T123000
 SUMMARY:Lunch: Turkey Sandwich
-DESCRIPTION:Turkey Sandwich
+DESCRIPTION:Cooking instructions: Layer turkey, cheese, lettuce, tomato on bread. Add mayo & mustard.\nIngredients prepped on Sunday Jul 13.
 END:VEVENT
 BEGIN:VEVENT
-UID:dinner-0-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:dinner-0-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250713T163000
 DTEND;TZID=America/Toronto:20250713T170000
 SUMMARY:Dinner: Pork Chops with Roast Veg
-DESCRIPTION:Pork Chops with Roast Veg
+DESCRIPTION:Cooking instructions: Season chops s+p. Roast with veg @400 °F 25 min.\nIngredients prepped on Sunday Jul 13.
 END:VEVENT
 BEGIN:VEVENT
-UID:breakfast-1-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:breakfast-1-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250714T060000
 DTEND;TZID=America/Toronto:20250714T063000
 SUMMARY:Breakfast: Greek Yogurt Parfait
-DESCRIPTION:Greek Yogurt Parfait
+DESCRIPTION:Cooking instructions: Layer yogurt, fresh berries, granola. Drizzle honey.\nIngredients prepped on Sunday Jul 13.
 END:VEVENT
 BEGIN:VEVENT
-UID:lunch-1-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:lunch-1-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250714T120000
 DTEND;TZID=America/Toronto:20250714T123000
 SUMMARY:Lunch: Quinoa Salad
-DESCRIPTION:Quinoa Salad
+DESCRIPTION:Cooking instructions: Mix cooled quinoa with chopped veggies & vinaigrette. Chill 30 min.\nIngredients prepped on Sunday Jul 13.
 END:VEVENT
 BEGIN:VEVENT
-UID:dinner-1-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:dinner-1-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250714T163000
 DTEND;TZID=America/Toronto:20250714T170000
 SUMMARY:Dinner: Spaghetti with Meat Sauce
-DESCRIPTION:Spaghetti with Meat Sauce
+DESCRIPTION:Cooking instructions: Brown beef, add sauce, simmer 20 min. Toss with pasta.\nIngredients prepped on Sunday Jul 13.
 END:VEVENT
 BEGIN:VEVENT
-UID:breakfast-2-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:breakfast-2-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250715T060000
 DTEND;TZID=America/Toronto:20250715T063000
 SUMMARY:Breakfast: Smoothie
-DESCRIPTION:Smoothie
+DESCRIPTION:Cooking instructions: Blend frozen fruit, yogurt & milk until creamy.\nIngredients prepped on Sunday Jul 13.
 END:VEVENT
 BEGIN:VEVENT
-UID:lunch-2-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:lunch-2-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250715T120000
 DTEND;TZID=America/Toronto:20250715T123000
 SUMMARY:Lunch: Stir Fry
-DESCRIPTION:Stir Fry
+DESCRIPTION:Cooking instructions: Sauté protein & veg 6 min, add stir‑fry sauce, serve on rice.\nIngredients prepped on Sunday Jul 13.
 END:VEVENT
 BEGIN:VEVENT
-UID:dinner-2-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:dinner-2-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250715T163000
 DTEND;TZID=America/Toronto:20250715T170000
 SUMMARY:Dinner: Tacos
-DESCRIPTION:Tacos
+DESCRIPTION:Cooking instructions: Fill shells with seasoned beef, lettuce, salsa, cheese.\nIngredients prepped on Sunday Jul 13.
 END:VEVENT
 BEGIN:VEVENT
-UID:breakfast-3-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:breakfast-3-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250716T060000
 DTEND;TZID=America/Toronto:20250716T063000
 SUMMARY:Breakfast: Avocado Toast
-DESCRIPTION:Avocado Toast
+DESCRIPTION:Cooking instructions: Mash avocado on toast; season salt, pepper, chili flakes.\nIngredients prepped on Sunday Jul 13.
 END:VEVENT
 BEGIN:VEVENT
-UID:lunch-3-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:lunch-3-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250716T120000
 DTEND;TZID=America/Toronto:20250716T123000
 SUMMARY:Lunch: Leftovers
-DESCRIPTION:Leftovers
+DESCRIPTION:Cooking instructions: Reheat previous dinner until piping hot.\nIngredients prepped on Sunday Jul 13.
 END:VEVENT
 BEGIN:VEVENT
-UID:dinner-3-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:dinner-3-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250716T163000
 DTEND;TZID=America/Toronto:20250716T170000
 SUMMARY:Dinner: Chicken and Rice
-DESCRIPTION:Chicken and Rice
+DESCRIPTION:Cooking instructions: Bake chicken 25 min @375 °F; serve with cooked rice.\nIngredients prepped on Sunday Jul 13.
 END:VEVENT
 BEGIN:VEVENT
-UID:breakfast-4-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:breakfast-4-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250717T060000
 DTEND;TZID=America/Toronto:20250717T063000
 SUMMARY:Breakfast: Cereal
-DESCRIPTION:Cereal
+DESCRIPTION:Cooking instructions: Pour cereal, add cold milk & blueberries.\nIngredients prepped on Wednesday Jul 16.
 END:VEVENT
 BEGIN:VEVENT
-UID:lunch-4-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:lunch-4-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250717T120000
 DTEND;TZID=America/Toronto:20250717T123000
 SUMMARY:Lunch: Soup and Salad
-DESCRIPTION:Soup and Salad
+DESCRIPTION:Cooking instructions: Heat soup; toss salad greens with dressing.\nIngredients prepped on Wednesday Jul 16.
 END:VEVENT
 BEGIN:VEVENT
-UID:dinner-4-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:dinner-4-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250717T163000
 DTEND;TZID=America/Toronto:20250717T170000
 SUMMARY:Dinner: Pizza Night
-DESCRIPTION:Pizza Night
+DESCRIPTION:Cooking instructions: Bake frozen pizza @425 °F ~12 min.\nIngredients prepped on Wednesday Jul 16.
 END:VEVENT
 BEGIN:VEVENT
-UID:breakfast-5-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:breakfast-5-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250718T060000
 DTEND;TZID=America/Toronto:20250718T063000
 SUMMARY:Breakfast: Pancakes
-DESCRIPTION:Pancakes
+DESCRIPTION:Cooking instructions: Cook batter on greased griddle 2 min/side. Serve with fruit.\nIngredients prepped on Wednesday Jul 16.
 END:VEVENT
 BEGIN:VEVENT
-UID:lunch-5-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:lunch-5-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250718T120000
 DTEND;TZID=America/Toronto:20250718T123000
 SUMMARY:Lunch: Wraps
-DESCRIPTION:Wraps
+DESCRIPTION:Cooking instructions: Fill tortilla with deli meat, cheese & veggies, roll tight.\nIngredients prepped on Wednesday Jul 16.
 END:VEVENT
 BEGIN:VEVENT
-UID:dinner-5-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:dinner-5-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250718T163000
 DTEND;TZID=America/Toronto:20250718T170000
 SUMMARY:Dinner: BBQ Night
-DESCRIPTION:BBQ Night
+DESCRIPTION:Cooking instructions: Grill meat over med‑high heat until done; serve with corn & slaw.\nIngredients prepped on Wednesday Jul 16.
 END:VEVENT
 BEGIN:VEVENT
-UID:breakfast-6-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:breakfast-6-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250719T060000
 DTEND;TZID=America/Toronto:20250719T063000
 SUMMARY:Breakfast: Egg Muffins
-DESCRIPTION:Egg Muffins
+DESCRIPTION:Cooking instructions: Bake egg/spinach/cheese mixture in muffin tin @350 °F 18 min.\nIngredients prepped on Wednesday Jul 16.
 END:VEVENT
 BEGIN:VEVENT
-UID:lunch-6-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:lunch-6-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250719T120000
 DTEND;TZID=America/Toronto:20250719T123000
 SUMMARY:Lunch: Grain Bowl
-DESCRIPTION:Grain Bowl
+DESCRIPTION:Cooking instructions: Layer quinoa, roasted veg & protein; drizzle tahini sauce.\nIngredients prepped on Wednesday Jul 16.
 END:VEVENT
 BEGIN:VEVENT
-UID:dinner-6-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:dinner-6-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250719T163000
 DTEND;TZID=America/Toronto:20250719T170000
 SUMMARY:Dinner: Stuffed Peppers
-DESCRIPTION:Stuffed Peppers
+DESCRIPTION:Cooking instructions: Bake filled peppers @375 °F 30 min.\nIngredients prepped on Wednesday Jul 16.
 END:VEVENT
 BEGIN:VEVENT
-UID:breakfast-7-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:breakfast-7-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250720T060000
 DTEND;TZID=America/Toronto:20250720T063000
 SUMMARY:Breakfast: Oatmeal with Berries
-DESCRIPTION:Oatmeal with Berries
+DESCRIPTION:Cooking instructions: Cook oats 5 min in milk/water. Top with berries & drizzle honey.\nIngredients prepped on Sunday Jul 20.
 END:VEVENT
 BEGIN:VEVENT
-UID:lunch-7-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:lunch-7-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250720T120000
 DTEND;TZID=America/Toronto:20250720T123000
 SUMMARY:Lunch: Turkey Sandwich
-DESCRIPTION:Turkey Sandwich
+DESCRIPTION:Cooking instructions: Layer turkey, cheese, lettuce, tomato on bread. Add mayo & mustard.\nIngredients prepped on Sunday Jul 20.
 END:VEVENT
 BEGIN:VEVENT
-UID:dinner-7-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:dinner-7-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250720T163000
 DTEND;TZID=America/Toronto:20250720T170000
 SUMMARY:Dinner: Pork Chops with Roast Veg
-DESCRIPTION:Pork Chops with Roast Veg
+DESCRIPTION:Cooking instructions: Season chops s+p. Roast with veg @400 °F 25 min.\nIngredients prepped on Sunday Jul 20.
 END:VEVENT
 BEGIN:VEVENT
-UID:breakfast-8-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:breakfast-8-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250721T060000
 DTEND;TZID=America/Toronto:20250721T063000
 SUMMARY:Breakfast: Greek Yogurt Parfait
-DESCRIPTION:Greek Yogurt Parfait
+DESCRIPTION:Cooking instructions: Layer yogurt, fresh berries, granola. Drizzle honey.\nIngredients prepped on Sunday Jul 20.
 END:VEVENT
 BEGIN:VEVENT
-UID:lunch-8-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:lunch-8-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250721T120000
 DTEND;TZID=America/Toronto:20250721T123000
 SUMMARY:Lunch: Quinoa Salad
-DESCRIPTION:Quinoa Salad
+DESCRIPTION:Cooking instructions: Mix cooled quinoa with chopped veggies & vinaigrette. Chill 30 min.\nIngredients prepped on Sunday Jul 20.
 END:VEVENT
 BEGIN:VEVENT
-UID:dinner-8-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:dinner-8-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250721T163000
 DTEND;TZID=America/Toronto:20250721T170000
 SUMMARY:Dinner: Spaghetti with Meat Sauce
-DESCRIPTION:Spaghetti with Meat Sauce
+DESCRIPTION:Cooking instructions: Brown beef, add sauce, simmer 20 min. Toss with pasta.\nIngredients prepped on Sunday Jul 20.
 END:VEVENT
 BEGIN:VEVENT
-UID:breakfast-9-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:breakfast-9-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250722T060000
 DTEND;TZID=America/Toronto:20250722T063000
 SUMMARY:Breakfast: Smoothie
-DESCRIPTION:Smoothie
+DESCRIPTION:Cooking instructions: Blend frozen fruit, yogurt & milk until creamy.\nIngredients prepped on Sunday Jul 20.
 END:VEVENT
 BEGIN:VEVENT
-UID:lunch-9-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:lunch-9-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250722T120000
 DTEND;TZID=America/Toronto:20250722T123000
 SUMMARY:Lunch: Stir Fry
-DESCRIPTION:Stir Fry
+DESCRIPTION:Cooking instructions: Sauté protein & veg 6 min, add stir‑fry sauce, serve on rice.\nIngredients prepped on Sunday Jul 20.
 END:VEVENT
 BEGIN:VEVENT
-UID:dinner-9-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:dinner-9-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250722T163000
 DTEND;TZID=America/Toronto:20250722T170000
 SUMMARY:Dinner: Tacos
-DESCRIPTION:Tacos
+DESCRIPTION:Cooking instructions: Fill shells with seasoned beef, lettuce, salsa, cheese.\nIngredients prepped on Sunday Jul 20.
 END:VEVENT
 BEGIN:VEVENT
-UID:breakfast-10-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:breakfast-10-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250723T060000
 DTEND;TZID=America/Toronto:20250723T063000
 SUMMARY:Breakfast: Avocado Toast
-DESCRIPTION:Avocado Toast
+DESCRIPTION:Cooking instructions: Mash avocado on toast; season salt, pepper, chili flakes.\nIngredients prepped on Sunday Jul 20.
 END:VEVENT
 BEGIN:VEVENT
-UID:lunch-10-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:lunch-10-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250723T120000
 DTEND;TZID=America/Toronto:20250723T123000
 SUMMARY:Lunch: Leftovers
-DESCRIPTION:Leftovers
+DESCRIPTION:Cooking instructions: Reheat previous dinner until piping hot.\nIngredients prepped on Sunday Jul 20.
 END:VEVENT
 BEGIN:VEVENT
-UID:dinner-10-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:dinner-10-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250723T163000
 DTEND;TZID=America/Toronto:20250723T170000
 SUMMARY:Dinner: Chicken and Rice
-DESCRIPTION:Chicken and Rice
+DESCRIPTION:Cooking instructions: Bake chicken 25 min @375 °F; serve with cooked rice.\nIngredients prepped on Sunday Jul 20.
 END:VEVENT
 BEGIN:VEVENT
-UID:breakfast-11-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:breakfast-11-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250724T060000
 DTEND;TZID=America/Toronto:20250724T063000
 SUMMARY:Breakfast: Cereal
-DESCRIPTION:Cereal
+DESCRIPTION:Cooking instructions: Pour cereal, add cold milk & blueberries.\nIngredients prepped on Wednesday Jul 23.
 END:VEVENT
 BEGIN:VEVENT
-UID:lunch-11-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:lunch-11-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250724T120000
 DTEND;TZID=America/Toronto:20250724T123000
 SUMMARY:Lunch: Soup and Salad
-DESCRIPTION:Soup and Salad
+DESCRIPTION:Cooking instructions: Heat soup; toss salad greens with dressing.\nIngredients prepped on Wednesday Jul 23.
 END:VEVENT
 BEGIN:VEVENT
-UID:dinner-11-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:dinner-11-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250724T163000
 DTEND;TZID=America/Toronto:20250724T170000
 SUMMARY:Dinner: Pizza Night
-DESCRIPTION:Pizza Night
+DESCRIPTION:Cooking instructions: Bake frozen pizza @425 °F ~12 min.\nIngredients prepped on Wednesday Jul 23.
 END:VEVENT
 BEGIN:VEVENT
-UID:breakfast-12-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:breakfast-12-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250725T060000
 DTEND;TZID=America/Toronto:20250725T063000
 SUMMARY:Breakfast: Pancakes
-DESCRIPTION:Pancakes
+DESCRIPTION:Cooking instructions: Cook batter on greased griddle 2 min/side. Serve with fruit.\nIngredients prepped on Wednesday Jul 23.
 END:VEVENT
 BEGIN:VEVENT
-UID:lunch-12-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:lunch-12-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250725T120000
 DTEND;TZID=America/Toronto:20250725T123000
 SUMMARY:Lunch: Wraps
-DESCRIPTION:Wraps
+DESCRIPTION:Cooking instructions: Fill tortilla with deli meat, cheese & veggies, roll tight.\nIngredients prepped on Wednesday Jul 23.
 END:VEVENT
 BEGIN:VEVENT
-UID:dinner-12-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:dinner-12-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250725T163000
 DTEND;TZID=America/Toronto:20250725T170000
 SUMMARY:Dinner: BBQ Night
-DESCRIPTION:BBQ Night
+DESCRIPTION:Cooking instructions: Grill meat over med‑high heat until done; serve with corn & slaw.\nIngredients prepped on Wednesday Jul 23.
 END:VEVENT
 BEGIN:VEVENT
-UID:breakfast-13-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:breakfast-13-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250726T060000
 DTEND;TZID=America/Toronto:20250726T063000
 SUMMARY:Breakfast: Egg Muffins
-DESCRIPTION:Egg Muffins
+DESCRIPTION:Cooking instructions: Bake egg/spinach/cheese mixture in muffin tin @350 °F 18 min.\nIngredients prepped on Wednesday Jul 23.
 END:VEVENT
 BEGIN:VEVENT
-UID:lunch-13-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:lunch-13-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250726T120000
 DTEND;TZID=America/Toronto:20250726T123000
 SUMMARY:Lunch: Grain Bowl
-DESCRIPTION:Grain Bowl
+DESCRIPTION:Cooking instructions: Layer quinoa, roasted veg & protein; drizzle tahini sauce.\nIngredients prepped on Wednesday Jul 23.
 END:VEVENT
 BEGIN:VEVENT
-UID:dinner-13-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:dinner-13-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250726T163000
 DTEND;TZID=America/Toronto:20250726T170000
 SUMMARY:Dinner: Stuffed Peppers
-DESCRIPTION:Stuffed Peppers
+DESCRIPTION:Cooking instructions: Bake filled peppers @375 °F 30 min.\nIngredients prepped on Wednesday Jul 23.
 END:VEVENT
 BEGIN:VEVENT
-UID:prep-20250713-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:prep-20250713-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250713T090000
 DTEND;TZID=America/Toronto:20250713T100000
 SUMMARY:Sunday Meal Prep
-DESCRIPTION:Sunday Meal Prep:\n- Carrots (4 large): Peel and cut into sticks\n- Bell Peppers (4): Deseed and slice\n- Chicken Breasts (6): Marinate with 3 tbsp olive oil, 2 tbsp lemon juice, 2 cloves garlic (minced), 1 tsp thyme, 1 tsp rosemary, 1/2 tsp salt, 1/4 tsp pepper\n- Broccoli (2 heads): Cut into florets\n- Sweet Potatoes (2 medium): Peel, cube, toss with 1 tbsp olive oil, 1 tsp paprika, 1/2 tsp garlic powder, 1/2 tsp salt, 1/4 tsp pepper\n- Rice (2 cups dry): Cook and portion\n- Egg Muffins (6): Bake with spinach & cheese, season with salt & pepper\n- Smoothie Packs (5): Portion fruit into freezer bags\n- Lettuce (1 head): Wash and chop\n- Pasta (3 cups dry): Cook and toss with 1 tbsp olive oil + 1 tsp Italian seasoning
+DESCRIPTION:Sunday Prep Guide — see checklist in previous calendar notes.
 END:VEVENT
 BEGIN:VEVENT
-UID:prep-20250716-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:prep-20250716-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250716T160000
 DTEND;TZID=America/Toronto:20250716T170000
 SUMMARY:Midweek Meal Prep
-DESCRIPTION:Midweek Meal Prep:\n- Zucchini (2): Slice, season with salt & pepper\n- Ground Beef (1 lb): Brown; season 1/2 tsp garlic powder, 1/2 tsp onion powder, 1/2 tsp salt, 1/4 tsp pepper\n- Onions (2): Dice\n- Quinoa (1.5 cups dry): Cook & cool\n- Cucumbers (2): Slice\n- Peaches (3): Slice for snacks/dessert\n- Chicken Thighs (4): Marinate with 1/4 c ketchup, 1 tbsp brown sugar, 1 tsp Worcestershire, 1 tsp vinegar, 1/2 tsp smoked paprika\n- Roasted Veggies: Chop mix; roast with 2 tbsp olive oil, 1 tsp garlic powder, 1 tsp thyme, 1/2 tsp salt, 1/4 tsp pepper\n- Cheese (200 g): Cube or shred\n- Grain Bowls (2): Assemble with quinoa, roasted veg, plus tahini‑lemon dressing (2 tbsp tahini, 2 tbsp lemon juice, 1 clove garlic, 2 tbsp water, pinch salt)
+DESCRIPTION:Midweek Prep Guide — see checklist in previous calendar notes.
 END:VEVENT
 BEGIN:VEVENT
-UID:prep-20250720-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:prep-20250720-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250720T090000
 DTEND;TZID=America/Toronto:20250720T100000
 SUMMARY:Sunday Meal Prep
-DESCRIPTION:Sunday Meal Prep:\n- Carrots (4 large): Peel and cut into sticks\n- Bell Peppers (4): Deseed and slice\n- Chicken Breasts (6): Marinate with 3 tbsp olive oil, 2 tbsp lemon juice, 2 cloves garlic (minced), 1 tsp thyme, 1 tsp rosemary, 1/2 tsp salt, 1/4 tsp pepper\n- Broccoli (2 heads): Cut into florets\n- Sweet Potatoes (2 medium): Peel, cube, toss with 1 tbsp olive oil, 1 tsp paprika, 1/2 tsp garlic powder, 1/2 tsp salt, 1/4 tsp pepper\n- Rice (2 cups dry): Cook and portion\n- Egg Muffins (6): Bake with spinach & cheese, season with salt & pepper\n- Smoothie Packs (5): Portion fruit into freezer bags\n- Lettuce (1 head): Wash and chop\n- Pasta (3 cups dry): Cook and toss with 1 tbsp olive oil + 1 tsp Italian seasoning
+DESCRIPTION:Sunday Prep Guide — see checklist in previous calendar notes.
 END:VEVENT
 BEGIN:VEVENT
-UID:prep-20250723-v2@mealplan
-DTSTAMP:20250709T171047Z
+UID:prep-20250723-v5@mealplan
+DTSTAMP:20250709T175830Z
 DTSTART;TZID=America/Toronto:20250723T160000
 DTEND;TZID=America/Toronto:20250723T170000
 SUMMARY:Midweek Meal Prep
-DESCRIPTION:Midweek Meal Prep:\n- Zucchini (2): Slice, season with salt & pepper\n- Ground Beef (1 lb): Brown; season 1/2 tsp garlic powder, 1/2 tsp onion powder, 1/2 tsp salt, 1/4 tsp pepper\n- Onions (2): Dice\n- Quinoa (1.5 cups dry): Cook & cool\n- Cucumbers (2): Slice\n- Peaches (3): Slice for snacks/dessert\n- Chicken Thighs (4): Marinate with 1/4 c ketchup, 1 tbsp brown sugar, 1 tsp Worcestershire, 1 tsp vinegar, 1/2 tsp smoked paprika\n- Roasted Veggies: Chop mix; roast with 2 tbsp olive oil, 1 tsp garlic powder, 1 tsp thyme, 1/2 tsp salt, 1/4 tsp pepper\n- Cheese (200 g): Cube or shred\n- Grain Bowls (2): Assemble with quinoa, roasted veg, plus tahini‑lemon dressing (2 tbsp tahini, 2 tbsp lemon juice, 1 clove garlic, 2 tbsp water, pinch salt)
-BEGIN:VEVENT
-UID:prep-20250713-v4@mealplan
-DTSTAMP:20250709T173754Z
-DTSTART;TZID=America/Toronto:20250713T090000
-DTEND;TZID=America/Toronto:20250713T100000
-SUMMARY:Sunday Meal Prep
-DESCRIPTION:🍽️ Sunday Prep Guide (for July 14–16)\n\n🧑‍🍳 What You’ll Be Prepping Today:\nThis prep covers 3 breakfasts, 3 lunches, and 3 suppers — scaled for 1 person (breakfast & lunch) and 2 people (supper).\n\n📋 Prep Checklist:\n• Carrots (4 large) – peel & cut into sticks\n• Bell Peppers (4) – deseed & slice\n• Chicken Breasts (6) – marinate with 3 tbsp olive oil, 2 tbsp lemon juice, 2 minced garlic, 1 tsp thyme, 1 tsp rosemary, ½ tsp salt, ¼ tsp pepper\n• Broccoli (2 heads) – cut into florets\n• Sweet Potatoes (2 medium) – peel, cube, toss with 1 tbsp olive oil, 1 tsp paprika, ½ tsp garlic powder, ½ tsp salt, ¼ tsp pepper\n• Rice (2 cups dry) – cook & portion\n• Egg Muffins (6) – bake with spinach & cheese, season with salt & pepper\n• Smoothie Packs (5) – portion fruit into freezer bags\n• Lettuce (1 head) – wash & chop\n• Pasta (3 cups dry) – cook & toss with 1 tbsp olive oil + 1 tsp Italian seasoning
-END:VEVENT
-BEGIN:VEVENT
-UID:prep-20250716-v4@mealplan
-DTSTAMP:20250709T173754Z
-DTSTART;TZID=America/Toronto:20250716T160000
-DTEND;TZID=America/Toronto:20250716T170000
-SUMMARY:Midweek Meal Prep
-DESCRIPTION:🍽️ Midweek Prep Guide (for July 17–19)\n\n🧑‍🍳 What You’ll Be Prepping Today:\nThis prep covers 3 breakfasts, 3 lunches, and 3 suppers — scaled for 1 person (breakfast & lunch) and 2 people (supper).\n\n📋 Prep Checklist:\n• Zucchini (2) – slice, season with salt & pepper\n• Ground Beef (1 lb) – brown, season ½ tsp garlic powder, ½ tsp onion powder, ½ tsp salt, ¼ tsp pepper\n• Onions (2) – dice\n• Quinoa (1.5 cups dry) – cook & cool\n• Cucumbers (2) – slice\n• Peaches (3) – slice for yogurt/dessert\n• Chicken Thighs (4) – marinate: ¼ c ketchup, 1 tbsp brown sugar, 1 tsp Worcestershire, 1 tsp vinegar, ½ tsp smoked paprika\n• Roasted Veg Mix – chop, toss with 2 tbsp olive oil, 1 tsp garlic powder, 1 tsp thyme, ½ tsp salt, ¼ tsp pepper, roast\n• Cheese (200 g) – cube or shred\n• Grain Bowls (2) – quinoa + roasted veg + tahini‑lemon dressing (2 tbsp tahini, 2 tbsp lemon, 1 garlic clove, 2 tbsp water, pinch salt)
-END:VEVENT
-BEGIN:VEVENT
-UID:prep-20250720-v4@mealplan
-DTSTAMP:20250709T173754Z
-DTSTART;TZID=America/Toronto:20250720T090000
-DTEND;TZID=America/Toronto:20250720T100000
-SUMMARY:Sunday Meal Prep
-DESCRIPTION:🍽️ Sunday Prep Guide (for July 21–23)\n\n🧑‍🍳 What You’ll Be Prepping Today:\nThis prep covers 3 breakfasts, 3 lunches, and 3 suppers — scaled for 1 person (breakfast & lunch) and 2 people (supper).\n\n📋 Prep Checklist:\n• Carrots (4 large) – peel & cut into sticks\n• Bell Peppers (4) – deseed & slice\n• Chicken Breasts (6) – marinate with 3 tbsp olive oil, 2 tbsp lemon juice, 2 minced garlic, 1 tsp thyme, 1 tsp rosemary, ½ tsp salt, ¼ tsp pepper\n• Broccoli (2 heads) – cut into florets\n• Sweet Potatoes (2 medium) – peel, cube, toss with 1 tbsp olive oil, 1 tsp paprika, ½ tsp garlic powder, ½ tsp salt, ¼ tsp pepper\n• Rice (2 cups dry) – cook & portion\n• Egg Muffins (6) – bake with spinach & cheese, season with salt & pepper\n• Smoothie Packs (5) – portion fruit into freezer bags\n• Lettuce (1 head) – wash & chop\n• Pasta (3 cups dry) – cook & toss with 1 tbsp olive oil + 1 tsp Italian seasoning
-END:VEVENT
-BEGIN:VEVENT
-UID:prep-20250723-v4@mealplan
-DTSTAMP:20250709T173754Z
-DTSTART;TZID=America/Toronto:20250723T160000
-DTEND;TZID=America/Toronto:20250723T170000
-SUMMARY:Midweek Meal Prep
-DESCRIPTION:🍽️ Midweek Prep Guide (for July 24–26)\n\n🧑‍🍳 What You’ll Be Prepping Today:\nThis prep covers 3 breakfasts, 3 lunches, and 3 suppers — scaled for 1 person (breakfast & lunch) and 2 people (supper).\n\n📋 Prep Checklist:\n• Zucchini (2) – slice, season with salt & pepper\n• Ground Beef (1 lb) – brown, season ½ tsp garlic powder, ½ tsp onion powder, ½ tsp salt, ¼ tsp pepper\n• Onions (2) – dice\n• Quinoa (1.5 cups dry) – cook & cool\n• Cucumbers (2) – slice\n• Peaches (3) – slice for yogurt/dessert\n• Chicken Thighs (4) – marinate: ¼ c ketchup, 1 tbsp brown sugar, 1 tsp Worcestershire, 1 tsp vinegar, ½ tsp smoked paprika\n• Roasted Veg Mix – chop, toss with 2 tbsp olive oil, 1 tsp garlic powder, 1 tsp thyme, ½ tsp salt, ¼ tsp pepper, roast\n• Cheese (200 g) – cube or shred\n• Grain Bowls (2) – quinoa + roasted veg + tahini‑lemon dressing (2 tbsp tahini, 2 tbsp lemon, 1 garlic clove, 2 tbsp water, pinch salt)
+DESCRIPTION:Midweek Prep Guide — see checklist in previous calendar notes.
 END:VEVENT
 END:VCALENDAR
