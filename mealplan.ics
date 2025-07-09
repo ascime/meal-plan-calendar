@@ -386,5 +386,36 @@ DTSTART;TZID=America/Toronto:20250723T160000
 DTEND;TZID=America/Toronto:20250723T170000
 SUMMARY:Midweek Meal Prep
 DESCRIPTION:Midweek Meal Prep:\n- Zucchini (2): Slice, season with salt & pepper\n- Ground Beef (1 lb): Brown; season 1/2 tsp garlic powder, 1/2 tsp onion powder, 1/2 tsp salt, 1/4 tsp pepper\n- Onions (2): Dice\n- Quinoa (1.5 cups dry): Cook & cool\n- Cucumbers (2): Slice\n- Peaches (3): Slice for snacks/dessert\n- Chicken Thighs (4): Marinate with 1/4 c ketchup, 1 tbsp brown sugar, 1 tsp Worcestershire, 1 tsp vinegar, 1/2 tsp smoked paprika\n- Roasted Veggies: Chop mix; roast with 2 tbsp olive oil, 1 tsp garlic powder, 1 tsp thyme, 1/2 tsp salt, 1/4 tsp pepper\n- Cheese (200 g): Cube or shred\n- Grain Bowls (2): Assemble with quinoa, roasted veg, plus tahini‑lemon dressing (2 tbsp tahini, 2 tbsp lemon juice, 1 clove garlic, 2 tbsp water, pinch salt)
+BEGIN:VEVENT
+UID:prep-20250713-v4@mealplan
+DTSTAMP:20250709T173754Z
+DTSTART;TZID=America/Toronto:20250713T090000
+DTEND;TZID=America/Toronto:20250713T100000
+SUMMARY:Sunday Meal Prep
+DESCRIPTION:🍽️ Sunday Prep Guide (for July 14–16)\n\n🧑‍🍳 What You’ll Be Prepping Today:\nThis prep covers 3 breakfasts, 3 lunches, and 3 suppers — scaled for 1 person (breakfast & lunch) and 2 people (supper).\n\n📋 Prep Checklist:\n• Carrots (4 large) – peel & cut into sticks\n• Bell Peppers (4) – deseed & slice\n• Chicken Breasts (6) – marinate with 3 tbsp olive oil, 2 tbsp lemon juice, 2 minced garlic, 1 tsp thyme, 1 tsp rosemary, ½ tsp salt, ¼ tsp pepper\n• Broccoli (2 heads) – cut into florets\n• Sweet Potatoes (2 medium) – peel, cube, toss with 1 tbsp olive oil, 1 tsp paprika, ½ tsp garlic powder, ½ tsp salt, ¼ tsp pepper\n• Rice (2 cups dry) – cook & portion\n• Egg Muffins (6) – bake with spinach & cheese, season with salt & pepper\n• Smoothie Packs (5) – portion fruit into freezer bags\n• Lettuce (1 head) – wash & chop\n• Pasta (3 cups dry) – cook & toss with 1 tbsp olive oil + 1 tsp Italian seasoning
+END:VEVENT
+BEGIN:VEVENT
+UID:prep-20250716-v4@mealplan
+DTSTAMP:20250709T173754Z
+DTSTART;TZID=America/Toronto:20250716T160000
+DTEND;TZID=America/Toronto:20250716T170000
+SUMMARY:Midweek Meal Prep
+DESCRIPTION:🍽️ Midweek Prep Guide (for July 17–19)\n\n🧑‍🍳 What You’ll Be Prepping Today:\nThis prep covers 3 breakfasts, 3 lunches, and 3 suppers — scaled for 1 person (breakfast & lunch) and 2 people (supper).\n\n📋 Prep Checklist:\n• Zucchini (2) – slice, season with salt & pepper\n• Ground Beef (1 lb) – brown, season ½ tsp garlic powder, ½ tsp onion powder, ½ tsp salt, ¼ tsp pepper\n• Onions (2) – dice\n• Quinoa (1.5 cups dry) – cook & cool\n• Cucumbers (2) – slice\n• Peaches (3) – slice for yogurt/dessert\n• Chicken Thighs (4) – marinate: ¼ c ketchup, 1 tbsp brown sugar, 1 tsp Worcestershire, 1 tsp vinegar, ½ tsp smoked paprika\n• Roasted Veg Mix – chop, toss with 2 tbsp olive oil, 1 tsp garlic powder, 1 tsp thyme, ½ tsp salt, ¼ tsp pepper, roast\n• Cheese (200 g) – cube or shred\n• Grain Bowls (2) – quinoa + roasted veg + tahini‑lemon dressing (2 tbsp tahini, 2 tbsp lemon, 1 garlic clove, 2 tbsp water, pinch salt)
+END:VEVENT
+BEGIN:VEVENT
+UID:prep-20250720-v4@mealplan
+DTSTAMP:20250709T173754Z
+DTSTART;TZID=America/Toronto:20250720T090000
+DTEND;TZID=America/Toronto:20250720T100000
+SUMMARY:Sunday Meal Prep
+DESCRIPTION:🍽️ Sunday Prep Guide (for July 21–23)\n\n🧑‍🍳 What You’ll Be Prepping Today:\nThis prep covers 3 breakfasts, 3 lunches, and 3 suppers — scaled for 1 person (breakfast & lunch) and 2 people (supper).\n\n📋 Prep Checklist:\n• Carrots (4 large) – peel & cut into sticks\n• Bell Peppers (4) – deseed & slice\n• Chicken Breasts (6) – marinate with 3 tbsp olive oil, 2 tbsp lemon juice, 2 minced garlic, 1 tsp thyme, 1 tsp rosemary, ½ tsp salt, ¼ tsp pepper\n• Broccoli (2 heads) – cut into florets\n• Sweet Potatoes (2 medium) – peel, cube, toss with 1 tbsp olive oil, 1 tsp paprika, ½ tsp garlic powder, ½ tsp salt, ¼ tsp pepper\n• Rice (2 cups dry) – cook & portion\n• Egg Muffins (6) – bake with spinach & cheese, season with salt & pepper\n• Smoothie Packs (5) – portion fruit into freezer bags\n• Lettuce (1 head) – wash & chop\n• Pasta (3 cups dry) – cook & toss with 1 tbsp olive oil + 1 tsp Italian seasoning
+END:VEVENT
+BEGIN:VEVENT
+UID:prep-20250723-v4@mealplan
+DTSTAMP:20250709T173754Z
+DTSTART;TZID=America/Toronto:20250723T160000
+DTEND;TZID=America/Toronto:20250723T170000
+SUMMARY:Midweek Meal Prep
+DESCRIPTION:🍽️ Midweek Prep Guide (for July 24–26)\n\n🧑‍🍳 What You’ll Be Prepping Today:\nThis prep covers 3 breakfasts, 3 lunches, and 3 suppers — scaled for 1 person (breakfast & lunch) and 2 people (supper).\n\n📋 Prep Checklist:\n• Zucchini (2) – slice, season with salt & pepper\n• Ground Beef (1 lb) – brown, season ½ tsp garlic powder, ½ tsp onion powder, ½ tsp salt, ¼ tsp pepper\n• Onions (2) – dice\n• Quinoa (1.5 cups dry) – cook & cool\n• Cucumbers (2) – slice\n• Peaches (3) – slice for yogurt/dessert\n• Chicken Thighs (4) – marinate: ¼ c ketchup, 1 tbsp brown sugar, 1 tsp Worcestershire, 1 tsp vinegar, ½ tsp smoked paprika\n• Roasted Veg Mix – chop, toss with 2 tbsp olive oil, 1 tsp garlic powder, 1 tsp thyme, ½ tsp salt, ¼ tsp pepper, roast\n• Cheese (200 g) – cube or shred\n• Grain Bowls (2) – quinoa + roasted veg + tahini‑lemon dressing (2 tbsp tahini, 2 tbsp lemon, 1 garlic clove, 2 tbsp water, pinch salt)
 END:VEVENT
 END:VCALENDAR
