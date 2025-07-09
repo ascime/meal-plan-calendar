@@ -1,357 +1,44 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 CALSCALE:GREGORIAN
-PRODID:-//MealPlan Full with Meals + Prep v10//EN
 BEGIN:VEVENT
-UID:breakfast-0-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250713T060000
-DTEND;TZID=America/Toronto:20250713T063000
-SUMMARY:Breakfast: Yogurt Parfait
-DESCRIPTION:Cooking instructions: Instructions to cook Yogurt Parfait\nPrepped during Sunday session (July 13).
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-0-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250713T120000
-DTEND;TZID=America/Toronto:20250713T123000
-SUMMARY:Lunch: Chicken Burrito Bowl
-DESCRIPTION:Cooking instructions: Instructions to cook Chicken Burrito Bowl\nPrepped during Sunday session (July 13).
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-0-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250713T163000
-DTEND;TZID=America/Toronto:20250713T170000
-SUMMARY:Dinner: Pork Chops with Roast Vegetables
-DESCRIPTION:Cooking instructions: Instructions to cook Pork Chops with Roast Vegetables\nPrepped during Sunday session (July 13).
-END:VEVENT
-BEGIN:VEVENT
-UID:breakfast-1-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250714T060000
-DTEND;TZID=America/Toronto:20250714T063000
-SUMMARY:Breakfast: Egg & Veggie Scramble
-DESCRIPTION:Cooking instructions: Instructions to cook Egg & Veggie Scramble\nPrepped during Sunday session (July 13).
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-1-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250714T120000
-DTEND;TZID=America/Toronto:20250714T123000
-SUMMARY:Lunch: Quinoa & Veggie Wrap
-DESCRIPTION:Cooking instructions: Instructions to cook Quinoa & Veggie Wrap\nPrepped during Sunday session (July 13).
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-1-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250714T163000
-DTEND;TZID=America/Toronto:20250714T170000
-SUMMARY:Dinner: Lemon Chicken with Rice & Beans
-DESCRIPTION:Cooking instructions: Instructions to cook Lemon Chicken with Rice & Beans\nPrepped during Sunday session (July 13).
-END:VEVENT
-BEGIN:VEVENT
-UID:breakfast-2-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250715T060000
-DTEND;TZID=America/Toronto:20250715T063000
-SUMMARY:Breakfast: Greek Yogurt with Honey
-DESCRIPTION:Cooking instructions: Instructions to cook Greek Yogurt with Honey\nPrepped during Sunday session (July 13).
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-2-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250715T120000
-DTEND;TZID=America/Toronto:20250715T123000
-SUMMARY:Lunch: Avocado Tuna Salad Wrap
-DESCRIPTION:Cooking instructions: Instructions to cook Avocado Tuna Salad Wrap\nPrepped during Sunday session (July 13).
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-2-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250715T163000
-DTEND;TZID=America/Toronto:20250715T170000
-SUMMARY:Dinner: Chicken Tikka Masala with Rice
-DESCRIPTION:Cooking instructions: Instructions to cook Chicken Tikka Masala with Rice\nPrepped during Sunday session (July 13).
-END:VEVENT
-BEGIN:VEVENT
-UID:breakfast-3-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250716T060000
-DTEND;TZID=America/Toronto:20250716T063000
-SUMMARY:Breakfast: Peanut Butter Toast
-DESCRIPTION:Cooking instructions: Instructions to cook Peanut Butter Toast\nPrepped during Midweek session (July 16).
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-3-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250716T120000
-DTEND;TZID=America/Toronto:20250716T123000
-SUMMARY:Lunch: Leftover Tikka Masala Bowl
-DESCRIPTION:Cooking instructions: Instructions to cook Leftover Tikka Masala Bowl\nPrepped during Midweek session (July 16).
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-3-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250716T163000
-DTEND;TZID=America/Toronto:20250716T170000
-SUMMARY:Dinner: Stir Fry with Chicken and Veggies
-DESCRIPTION:Cooking instructions: Instructions to cook Stir Fry with Chicken and Veggies\nPrepped during Midweek session (July 16).
-END:VEVENT
-BEGIN:VEVENT
-UID:breakfast-4-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250717T060000
-DTEND;TZID=America/Toronto:20250717T063000
-SUMMARY:Breakfast: Cottage Cheese & Fruit
-DESCRIPTION:Cooking instructions: Instructions to cook Cottage Cheese & Fruit\nPrepped during Midweek session (July 16).
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-4-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250717T120000
-DTEND;TZID=America/Toronto:20250717T123000
-SUMMARY:Lunch: Black Bean & Corn Wrap
-DESCRIPTION:Cooking instructions: Instructions to cook Black Bean & Corn Wrap\nPrepped during Midweek session (July 16).
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-4-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250717T163000
-DTEND;TZID=America/Toronto:20250717T170000
-SUMMARY:Dinner: Grilled Chicken with Couscous
-DESCRIPTION:Cooking instructions: Instructions to cook Grilled Chicken with Couscous\nPrepped during Midweek session (July 16).
-END:VEVENT
-BEGIN:VEVENT
-UID:breakfast-5-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250718T060000
-DTEND;TZID=America/Toronto:20250718T063000
-SUMMARY:Breakfast: Scrambled Eggs & Turkey Bacon
-DESCRIPTION:Cooking instructions: Instructions to cook Scrambled Eggs & Turkey Bacon\nPrepped during Midweek session (July 16).
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-5-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250718T120000
-DTEND;TZID=America/Toronto:20250718T123000
-SUMMARY:Lunch: Cheddar Veggie Sandwich
-DESCRIPTION:Cooking instructions: Instructions to cook Cheddar Veggie Sandwich\nPrepped during Midweek session (July 16).
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-5-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250718T163000
-DTEND;TZID=America/Toronto:20250718T170000
-SUMMARY:Dinner: Pasta Primavera
-DESCRIPTION:Cooking instructions: Instructions to cook Pasta Primavera\nPrepped during Midweek session (July 16).
-END:VEVENT
-BEGIN:VEVENT
-UID:breakfast-6-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250719T060000
-DTEND;TZID=America/Toronto:20250719T063000
-SUMMARY:Breakfast: Leftover Pancakes
-DESCRIPTION:Cooking instructions: Instructions to cook Leftover Pancakes\n
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-6-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250719T120000
-DTEND;TZID=America/Toronto:20250719T123000
-SUMMARY:Lunch: Veggie Wrap with Leftovers
-DESCRIPTION:Cooking instructions: Instructions to cook Veggie Wrap with Leftovers\n
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-6-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250719T163000
-DTEND;TZID=America/Toronto:20250719T170000
-SUMMARY:Dinner: Caprese Sandwich & Salad
-DESCRIPTION:Cooking instructions: Instructions to cook Caprese Sandwich & Salad\n
-END:VEVENT
-BEGIN:VEVENT
-UID:breakfast-7-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250720T060000
-DTEND;TZID=America/Toronto:20250720T063000
-SUMMARY:Breakfast: Cottage Cheese & Peaches
-DESCRIPTION:Cooking instructions: Instructions to cook Cottage Cheese & Peaches\nPrepped during Sunday session (July 20).
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-7-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250720T120000
-DTEND;TZID=America/Toronto:20250720T123000
-SUMMARY:Lunch: Chicken Salad Wrap
-DESCRIPTION:Cooking instructions: Instructions to cook Chicken Salad Wrap\nPrepped during Sunday session (July 20).
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-7-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250720T163000
-DTEND;TZID=America/Toronto:20250720T170000
-SUMMARY:Dinner: Gourmet Hamburgers
-DESCRIPTION:Cooking instructions: Instructions to cook Gourmet Hamburgers\nPrepped during Sunday session (July 20).
-END:VEVENT
-BEGIN:VEVENT
-UID:breakfast-8-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250721T060000
-DTEND;TZID=America/Toronto:20250721T063000
-SUMMARY:Breakfast: Egg & Veggie Scramble
-DESCRIPTION:Cooking instructions: Instructions to cook Egg & Veggie Scramble\nPrepped during Sunday session (July 20).
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-8-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250721T120000
-DTEND;TZID=America/Toronto:20250721T123000
-SUMMARY:Lunch: Asian Lettuce Chicken Wraps
-DESCRIPTION:Cooking instructions: Instructions to cook Asian Lettuce Chicken Wraps\nPrepped during Sunday session (July 20).
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-8-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250721T163000
-DTEND;TZID=America/Toronto:20250721T170000
-SUMMARY:Dinner: Stuffed Peppers
-DESCRIPTION:Cooking instructions: Instructions to cook Stuffed Peppers\nPrepped during Sunday session (July 20).
-END:VEVENT
-BEGIN:VEVENT
-UID:breakfast-9-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250722T060000
-DTEND;TZID=America/Toronto:20250722T063000
-SUMMARY:Breakfast: Yogurt Parfait with Fruit
-DESCRIPTION:Cooking instructions: Instructions to cook Yogurt Parfait with Fruit\nPrepped during Sunday session (July 20).
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-9-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250722T120000
-DTEND;TZID=America/Toronto:20250722T123000
-SUMMARY:Lunch: Caprese Sandwich
-DESCRIPTION:Cooking instructions: Instructions to cook Caprese Sandwich\nPrepped during Sunday session (July 20).
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-9-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250722T163000
-DTEND;TZID=America/Toronto:20250722T170000
-SUMMARY:Dinner: Roast Pork with Seasonal Veggies
-DESCRIPTION:Cooking instructions: Instructions to cook Roast Pork with Seasonal Veggies\nPrepped during Sunday session (July 20).
-END:VEVENT
-BEGIN:VEVENT
-UID:breakfast-10-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250723T060000
-DTEND;TZID=America/Toronto:20250723T063000
-SUMMARY:Breakfast: Toast with Turkey Sausage
-DESCRIPTION:Cooking instructions: Instructions to cook Toast with Turkey Sausage\nPrepped during Midweek session (July 23).
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-10-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250723T120000
-DTEND;TZID=America/Toronto:20250723T123000
-SUMMARY:Lunch: Leftover Stuffed Peppers Bowl
-DESCRIPTION:Cooking instructions: Instructions to cook Leftover Stuffed Peppers Bowl\nPrepped during Midweek session (July 23).
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-10-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250723T163000
-DTEND;TZID=America/Toronto:20250723T170000
-SUMMARY:Dinner: Teriyaki Chicken Stir Fry
-DESCRIPTION:Cooking instructions: Instructions to cook Teriyaki Chicken Stir Fry\nPrepped during Midweek session (July 23).
-END:VEVENT
-BEGIN:VEVENT
-UID:breakfast-11-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250724T060000
-DTEND;TZID=America/Toronto:20250724T063000
-SUMMARY:Breakfast: Greek Yogurt & Honey
-DESCRIPTION:Cooking instructions: Instructions to cook Greek Yogurt & Honey\nPrepped during Midweek session (July 23).
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-11-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250724T120000
-DTEND;TZID=America/Toronto:20250724T123000
-SUMMARY:Lunch: Turkey Sandwich
-DESCRIPTION:Cooking instructions: Instructions to cook Turkey Sandwich\nPrepped during Midweek session (July 23).
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-11-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250724T163000
-DTEND;TZID=America/Toronto:20250724T170000
-SUMMARY:Dinner: Veggie Bowl with Tahini Sauce
-DESCRIPTION:Cooking instructions: Instructions to cook Veggie Bowl with Tahini Sauce\nPrepped during Midweek session (July 23).
-END:VEVENT
-BEGIN:VEVENT
-UID:breakfast-12-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250725T060000
-DTEND;TZID=America/Toronto:20250725T063000
-SUMMARY:Breakfast: Scrambled Eggs with Veggies
-DESCRIPTION:Cooking instructions: Instructions to cook Scrambled Eggs with Veggies\nPrepped during Midweek session (July 23).
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-12-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250725T120000
-DTEND;TZID=America/Toronto:20250725T123000
-SUMMARY:Lunch: Chicken Wrap with Veggies
-DESCRIPTION:Cooking instructions: Instructions to cook Chicken Wrap with Veggies\nPrepped during Midweek session (July 23).
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-12-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250725T163000
-DTEND;TZID=America/Toronto:20250725T170000
-SUMMARY:Dinner: Chicken Tikka Masala Bowl
-DESCRIPTION:Cooking instructions: Instructions to cook Chicken Tikka Masala Bowl\nPrepped during Midweek session (July 23).
-END:VEVENT
-BEGIN:VEVENT
-UID:breakfast-13-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250726T060000
-DTEND;TZID=America/Toronto:20250726T063000
-SUMMARY:Breakfast: Peanut Butter Toast or Yogurt
-DESCRIPTION:Cooking instructions: Instructions to cook Peanut Butter Toast or Yogurt\n
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-13-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250726T120000
-DTEND;TZID=America/Toronto:20250726T123000
-SUMMARY:Lunch: Leftover Tikka Masala Bowl
-DESCRIPTION:Cooking instructions: Instructions to cook Leftover Tikka Masala Bowl\n
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-13-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250726T163000
-DTEND;TZID=America/Toronto:20250726T170000
-SUMMARY:Dinner: Caprese Sandwich & Salad
-DESCRIPTION:Cooking instructions: Instructions to cook Caprese Sandwich & Salad\n
-END:VEVENT
-BEGIN:VEVENT
-UID:prep-20250713-v10@mealplan
-DTSTAMP:20250709T201256Z
+UID:1
+DTSTAMP:20250713T090000Z
 DTSTART;TZID=America/Toronto:20250713T090000
 DTEND;TZID=America/Toronto:20250713T100000
 SUMMARY:Sunday Meal Prep
-DESCRIPTION:Prep instructions for Sunday.
-END:VEVENT
-BEGIN:VEVENT
-UID:prep-20250716-v10@mealplan
-DTSTAMP:20250709T201256Z
-DTSTART;TZID=America/Toronto:20250716T160000
-DTEND;TZID=America/Toronto:20250716T170000
-SUMMARY:Midweek Meal Prep
-DESCRIPTION:Prep instructions for Wednesday.
+DESCRIPTION:🍽️ Sunday Prep Guide (for July 14–16)
+🧑‍🍳 What You’ll Be Prepping:
+This prep covers 3 breakfasts, 3 lunches, and 3 suppers — scaled for 1 person (breakfast & lunch) and 2 people (supper).
+
+✅ Prep List:
+• 3/4 cup blueberries – washed and stored in container
+• 1 ½ cups Greek yogurt – portion into 3 small containers
+• 1/3 cup granola – portion into 3 baggies
+• 4 eggs – boiled and peeled
+• 1/2 red bell pepper – chopped
+• 1/2 zucchini – chopped
+• 1/4 red onion – chopped
+• 1 peach – sliced
+• 1 tbsp honey – portioned
+• 1/2 cup basmati rice – cooked and cooled
+• Chicken thighs (2) – marinated
+• Chicken tikka masala (leftovers) – thawed if frozen
+• Stir fry vegetables – chopped and stored
+• Avocado (1) – halved, pit removed, lemon brushed to prevent browning
+
+🧂 Seasonings & Marinades:
+• Chicken marinade: 1 tbsp yogurt, 1 tsp lemon juice, 1/2 tsp cumin, 1/4 tsp turmeric, salt & pepper
+• Stir fry seasoning: 1 tbsp soy sauce, 1/2 tsp garlic, pinch of chili flakes
+
+📦 Storage:
+• Use airtight containers
+• Label leftovers with prep date
+• Most items stay fresh up to 3 days (consume by Wednesday)
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Sunday Meal Prep
+END:VALARM
 END:VEVENT
 END:VCALENDAR
