@@ -799,4 +799,69 @@ ACTION:DISPLAY
 DESCRIPTION:Midweek Meal Prep
 END:VALARM
 END:VEVENT
+
+BEGIN:VEVENT
+UID:prep-20250720@mealplan
+DTSTAMP:20250709T223113Z
+DTSTART;TZID=America/Toronto:20250720T090000
+DTEND;TZID=America/Toronto:20250720T100000
+SUMMARY:Sunday Meal Prep
+DESCRIPTION:🍽️ Sunday Meal Prep (for Jul 20–20):
+🧑‍🍳 What You’ll Be Prepping:
+- Assemble parfait jars
+- Slice cucumbers, tomatoes, onions
+- Marinate pork chops (olive oil, garlic, rosemary)
+- Roast sweet potato cubes (cool and store)
+- Wash lettuce and prep for wraps
+- Portion cheese slices
+- Hard boil eggs
+
+🧂 Seasoning & Marinade:
+- Pork marinade: 2 tbsp olive oil, 1 clove garlic, 1/2 tsp rosemary
+- Veg: olive oil, salt, pepper
+
+🧊 Storage:
+- Parfaits: 3 days in fridge
+- Cooked veg: up to 4 days
+- Marinated pork: use within 2 days
+- Cheese and veggies in airtight containers
+
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Sunday Meal Prep
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:prep-20250723@mealplan
+DTSTAMP:20250709T223113Z
+DTSTART;TZID=America/Toronto:20250723T160000
+DTEND;TZID=America/Toronto:20250723T170000
+SUMMARY:Midweek Meal Prep
+DESCRIPTION:🍽️ Midweek Meal Prep (for Jul 23–23):
+🧑‍🍳 What You’ll Be Prepping:
+- Wash and chop bell peppers, onions, and romaine
+- Mix taco filling (beans, spices)
+- Cook rice for bowls
+- Portion yogurt and fruit
+- Grill extra chicken breasts
+- Slice burger toppings (lettuce, tomato, onion, pickles)
+
+🧂 Seasoning & Marinade:
+- Taco mix: 1 tsp chili powder, 1/2 tsp cumin, pinch of garlic powder
+- Chicken: salt, pepper, lemon juice
+
+🧊 Storage:
+- Beans and rice: airtight containers, 3–4 days
+- Burger toppings: 2–3 days
+- Yogurt + fruit: 3 days
+
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Midweek Meal Prep
+END:VALARM
+END:VEVENT
+
 END:VCALENDAR
