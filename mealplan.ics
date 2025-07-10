@@ -1,867 +1,260 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Meal Plan
+X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
-UID:breakfast-0@mealplan
-DTSTAMP:20250709T221434Z
 DTSTART;TZID=America/Toronto:20250713T060000
-DTEND;TZID=America/Toronto:20250713T063000
-SUMMARY:Breakfast: Yogurt Parfait
-DESCRIPTION:Cooking Instructions for Yogurt Parfait:
-1. Follow standard prep for yogurt parfait.
-2. Heat or assemble as required.
-📝 Prepped during Midweek Meal Prep on Jul 13.
-
+DTEND;TZID=America/Toronto:20250713T060000
+SUMMARY:Breakfast
+DESCRIPTION:Breakfast as per meal plan.
 BEGIN:VALARM
 TRIGGER:-PT30M
+DESCRIPTION:Meal Reminder
 ACTION:DISPLAY
-DESCRIPTION:Breakfast: Yogurt Parfait
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:lunch-0@mealplan
-DTSTAMP:20250709T221434Z
 DTSTART;TZID=America/Toronto:20250713T120000
-DTEND;TZID=America/Toronto:20250713T123000
-SUMMARY:Lunch: Chicken Burrito Bowl
-DESCRIPTION:Cooking Instructions for Chicken Burrito Bowl:
-1. Follow standard prep for chicken burrito bowl.
-2. Heat or assemble as required.
-📝 Prepped during Midweek Meal Prep on Jul 13.
-
+DTEND;TZID=America/Toronto:20250713T120000
+SUMMARY:Lunch
+DESCRIPTION:Lunch as per meal plan.
 BEGIN:VALARM
 TRIGGER:-PT30M
+DESCRIPTION:Meal Reminder
 ACTION:DISPLAY
-DESCRIPTION:Lunch: Chicken Burrito Bowl
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:dinner-0@mealplan
-DTSTAMP:20250709T221434Z
 DTSTART;TZID=America/Toronto:20250713T163000
-DTEND;TZID=America/Toronto:20250713T170000
-SUMMARY:Dinner: Pork Chops with Roast Vegetables
-DESCRIPTION:Cooking Instructions for Pork Chops with Roast Vegetables:
-1. Follow standard prep for pork chops with roast vegetables.
-2. Heat or assemble as required.
-📝 Prepped during Midweek Meal Prep on Jul 13.
-
+DTEND;TZID=America/Toronto:20250713T163000
+SUMMARY:Dinner
+DESCRIPTION:Dinner as per meal plan.
 BEGIN:VALARM
 TRIGGER:-PT30M
+DESCRIPTION:Meal Reminder
 ACTION:DISPLAY
-DESCRIPTION:Dinner: Pork Chops with Roast Vegetables
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:breakfast-1@mealplan
-DTSTAMP:20250709T221434Z
 DTSTART;TZID=America/Toronto:20250714T060000
-DTEND;TZID=America/Toronto:20250714T063000
-SUMMARY:Breakfast: Egg & Veggie Scramble
-DESCRIPTION:Cooking Instructions for Egg & Veggie Scramble:
-1. Follow standard prep for egg & veggie scramble.
-2. Heat or assemble as required.
-📝 Prepped during Sunday Meal Prep on Jul 14.
-
+DTEND;TZID=America/Toronto:20250714T060000
+SUMMARY:Breakfast
+DESCRIPTION:Breakfast as per meal plan.
 BEGIN:VALARM
 TRIGGER:-PT30M
+DESCRIPTION:Meal Reminder
 ACTION:DISPLAY
-DESCRIPTION:Breakfast: Egg & Veggie Scramble
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:lunch-1@mealplan
-DTSTAMP:20250709T221434Z
 DTSTART;TZID=America/Toronto:20250714T120000
-DTEND;TZID=America/Toronto:20250714T123000
-SUMMARY:Lunch: Quinoa Wrap
-DESCRIPTION:Cooking Instructions for Quinoa Wrap:
-1. Follow standard prep for quinoa wrap.
-2. Heat or assemble as required.
-📝 Prepped during Sunday Meal Prep on Jul 14.
-
+DTEND;TZID=America/Toronto:20250714T120000
+SUMMARY:Lunch
+DESCRIPTION:Lunch as per meal plan.
 BEGIN:VALARM
 TRIGGER:-PT30M
+DESCRIPTION:Meal Reminder
 ACTION:DISPLAY
-DESCRIPTION:Lunch: Quinoa Wrap
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:dinner-1@mealplan
-DTSTAMP:20250709T221434Z
 DTSTART;TZID=America/Toronto:20250714T163000
-DTEND;TZID=America/Toronto:20250714T170000
-SUMMARY:Dinner: Lemon Chicken & Beans
-DESCRIPTION:Cooking Instructions for Lemon Chicken & Beans:
-1. Follow standard prep for lemon chicken & beans.
-2. Heat or assemble as required.
-📝 Prepped during Sunday Meal Prep on Jul 14.
-
+DTEND;TZID=America/Toronto:20250714T163000
+SUMMARY:Dinner
+DESCRIPTION:Dinner as per meal plan.
 BEGIN:VALARM
 TRIGGER:-PT30M
+DESCRIPTION:Meal Reminder
 ACTION:DISPLAY
-DESCRIPTION:Dinner: Lemon Chicken & Beans
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:breakfast-2@mealplan
-DTSTAMP:20250709T221434Z
 DTSTART;TZID=America/Toronto:20250715T060000
-DTEND;TZID=America/Toronto:20250715T063000
-SUMMARY:Breakfast: Greek Yogurt & Peach
-DESCRIPTION:Cooking Instructions for Greek Yogurt & Peach:
-1. Follow standard prep for greek yogurt & peach.
-2. Heat or assemble as required.
-📝 Prepped during Sunday Meal Prep on Jul 15.
-
+DTEND;TZID=America/Toronto:20250715T060000
+SUMMARY:Breakfast
+DESCRIPTION:Breakfast as per meal plan.
 BEGIN:VALARM
 TRIGGER:-PT30M
+DESCRIPTION:Meal Reminder
 ACTION:DISPLAY
-DESCRIPTION:Breakfast: Greek Yogurt & Peach
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:lunch-2@mealplan
-DTSTAMP:20250709T221434Z
 DTSTART;TZID=America/Toronto:20250715T120000
-DTEND;TZID=America/Toronto:20250715T123000
-SUMMARY:Lunch: Turkey Sandwich
-DESCRIPTION:Cooking Instructions for Turkey Sandwich:
-1. Follow standard prep for turkey sandwich.
-2. Heat or assemble as required.
-📝 Prepped during Sunday Meal Prep on Jul 15.
-
+DTEND;TZID=America/Toronto:20250715T120000
+SUMMARY:Lunch
+DESCRIPTION:Lunch as per meal plan.
 BEGIN:VALARM
 TRIGGER:-PT30M
+DESCRIPTION:Meal Reminder
 ACTION:DISPLAY
-DESCRIPTION:Lunch: Turkey Sandwich
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:dinner-2@mealplan
-DTSTAMP:20250709T221434Z
 DTSTART;TZID=America/Toronto:20250715T163000
-DTEND;TZID=America/Toronto:20250715T170000
-SUMMARY:Dinner: Chicken Tikka Masala
-DESCRIPTION:Cooking Instructions for Chicken Tikka Masala:
-1. Follow standard prep for chicken tikka masala.
-2. Heat or assemble as required.
-📝 Prepped during Sunday Meal Prep on Jul 15.
-
+DTEND;TZID=America/Toronto:20250715T163000
+SUMMARY:Dinner
+DESCRIPTION:Dinner as per meal plan.
 BEGIN:VALARM
 TRIGGER:-PT30M
+DESCRIPTION:Meal Reminder
 ACTION:DISPLAY
-DESCRIPTION:Dinner: Chicken Tikka Masala
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:breakfast-3@mealplan
-DTSTAMP:20250709T221434Z
 DTSTART;TZID=America/Toronto:20250716T060000
-DTEND;TZID=America/Toronto:20250716T063000
-SUMMARY:Breakfast: Cottage Cheese & Fruit
-DESCRIPTION:Cooking Instructions for Cottage Cheese & Fruit:
-1. Follow standard prep for cottage cheese & fruit.
-2. Heat or assemble as required.
-📝 Prepped during Sunday Meal Prep on Jul 16.
-
+DTEND;TZID=America/Toronto:20250716T060000
+SUMMARY:Breakfast
+DESCRIPTION:Breakfast as per meal plan.
 BEGIN:VALARM
 TRIGGER:-PT30M
+DESCRIPTION:Meal Reminder
 ACTION:DISPLAY
-DESCRIPTION:Breakfast: Cottage Cheese & Fruit
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:lunch-3@mealplan
-DTSTAMP:20250709T221434Z
 DTSTART;TZID=America/Toronto:20250716T120000
-DTEND;TZID=America/Toronto:20250716T123000
-SUMMARY:Lunch: Black Bean Wrap
-DESCRIPTION:Cooking Instructions for Black Bean Wrap:
-1. Follow standard prep for black bean wrap.
-2. Heat or assemble as required.
-📝 Prepped during Sunday Meal Prep on Jul 16.
-
+DTEND;TZID=America/Toronto:20250716T120000
+SUMMARY:Lunch
+DESCRIPTION:Lunch as per meal plan.
 BEGIN:VALARM
 TRIGGER:-PT30M
+DESCRIPTION:Meal Reminder
 ACTION:DISPLAY
-DESCRIPTION:Lunch: Black Bean Wrap
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:dinner-3@mealplan
-DTSTAMP:20250709T221434Z
 DTSTART;TZID=America/Toronto:20250716T163000
-DTEND;TZID=America/Toronto:20250716T170000
-SUMMARY:Dinner: Stir Fry Veggies & Chicken
-DESCRIPTION:Cooking Instructions for Stir Fry Veggies & Chicken:
-1. Follow standard prep for stir fry veggies & chicken.
-2. Heat or assemble as required.
-📝 Prepped during Sunday Meal Prep on Jul 16.
-
+DTEND;TZID=America/Toronto:20250716T163000
+SUMMARY:Dinner
+DESCRIPTION:Dinner as per meal plan.
 BEGIN:VALARM
 TRIGGER:-PT30M
+DESCRIPTION:Meal Reminder
 ACTION:DISPLAY
-DESCRIPTION:Dinner: Stir Fry Veggies & Chicken
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:breakfast-4@mealplan
-DTSTAMP:20250709T221434Z
 DTSTART;TZID=America/Toronto:20250717T060000
-DTEND;TZID=America/Toronto:20250717T063000
-SUMMARY:Breakfast: Peanut Butter Toast
-DESCRIPTION:Cooking Instructions for Peanut Butter Toast:
-1. Follow standard prep for peanut butter toast.
-2. Heat or assemble as required.
-📝 Prepped during Midweek Meal Prep on Jul 17.
-
+DTEND;TZID=America/Toronto:20250717T060000
+SUMMARY:Breakfast
+DESCRIPTION:Breakfast as per meal plan.
 BEGIN:VALARM
 TRIGGER:-PT30M
+DESCRIPTION:Meal Reminder
 ACTION:DISPLAY
-DESCRIPTION:Breakfast: Peanut Butter Toast
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:lunch-4@mealplan
-DTSTAMP:20250709T221434Z
 DTSTART;TZID=America/Toronto:20250717T120000
-DTEND;TZID=America/Toronto:20250717T123000
-SUMMARY:Lunch: Leftover Stir Fry
-DESCRIPTION:Cooking Instructions for Leftover Stir Fry:
-1. Follow standard prep for leftover stir fry.
-2. Heat or assemble as required.
-📝 Prepped during Midweek Meal Prep on Jul 17.
-
+DTEND;TZID=America/Toronto:20250717T120000
+SUMMARY:Lunch
+DESCRIPTION:Lunch as per meal plan.
 BEGIN:VALARM
 TRIGGER:-PT30M
+DESCRIPTION:Meal Reminder
 ACTION:DISPLAY
-DESCRIPTION:Lunch: Leftover Stir Fry
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:dinner-4@mealplan
-DTSTAMP:20250709T221434Z
 DTSTART;TZID=America/Toronto:20250717T163000
-DTEND;TZID=America/Toronto:20250717T170000
-SUMMARY:Dinner: Grilled Chicken & Couscous
-DESCRIPTION:Cooking Instructions for Grilled Chicken & Couscous:
-1. Follow standard prep for grilled chicken & couscous.
-2. Heat or assemble as required.
-📝 Prepped during Midweek Meal Prep on Jul 17.
-
+DTEND;TZID=America/Toronto:20250717T163000
+SUMMARY:Dinner
+DESCRIPTION:Dinner as per meal plan.
 BEGIN:VALARM
 TRIGGER:-PT30M
+DESCRIPTION:Meal Reminder
 ACTION:DISPLAY
-DESCRIPTION:Dinner: Grilled Chicken & Couscous
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:breakfast-5@mealplan
-DTSTAMP:20250709T221434Z
 DTSTART;TZID=America/Toronto:20250718T060000
-DTEND;TZID=America/Toronto:20250718T063000
-SUMMARY:Breakfast: Oatmeal with Berries
-DESCRIPTION:Cooking Instructions for Oatmeal with Berries:
-1. Follow standard prep for oatmeal with berries.
-2. Heat or assemble as required.
-📝 Prepped during Midweek Meal Prep on Jul 18.
-
+DTEND;TZID=America/Toronto:20250718T060000
+SUMMARY:Breakfast
+DESCRIPTION:Breakfast as per meal plan.
 BEGIN:VALARM
 TRIGGER:-PT30M
+DESCRIPTION:Meal Reminder
 ACTION:DISPLAY
-DESCRIPTION:Breakfast: Oatmeal with Berries
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:lunch-5@mealplan
-DTSTAMP:20250709T221434Z
 DTSTART;TZID=America/Toronto:20250718T120000
-DTEND;TZID=America/Toronto:20250718T123000
-SUMMARY:Lunch: Avocado Tuna Wrap
-DESCRIPTION:Cooking Instructions for Avocado Tuna Wrap:
-1. Follow standard prep for avocado tuna wrap.
-2. Heat or assemble as required.
-📝 Prepped during Midweek Meal Prep on Jul 18.
-
+DTEND;TZID=America/Toronto:20250718T120000
+SUMMARY:Lunch
+DESCRIPTION:Lunch as per meal plan.
 BEGIN:VALARM
 TRIGGER:-PT30M
+DESCRIPTION:Meal Reminder
 ACTION:DISPLAY
-DESCRIPTION:Lunch: Avocado Tuna Wrap
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:dinner-5@mealplan
-DTSTAMP:20250709T221434Z
 DTSTART;TZID=America/Toronto:20250718T163000
-DTEND;TZID=America/Toronto:20250718T170000
-SUMMARY:Dinner: Pasta Primavera
-DESCRIPTION:Cooking Instructions for Pasta Primavera:
-1. Follow standard prep for pasta primavera.
-2. Heat or assemble as required.
-📝 Prepped during Midweek Meal Prep on Jul 18.
-
+DTEND;TZID=America/Toronto:20250718T163000
+SUMMARY:Dinner
+DESCRIPTION:Dinner as per meal plan.
 BEGIN:VALARM
 TRIGGER:-PT30M
+DESCRIPTION:Meal Reminder
 ACTION:DISPLAY
-DESCRIPTION:Dinner: Pasta Primavera
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:breakfast-6@mealplan
-DTSTAMP:20250709T221434Z
 DTSTART;TZID=America/Toronto:20250719T060000
-DTEND;TZID=America/Toronto:20250719T063000
-SUMMARY:Breakfast: Smoothie Bowl
-DESCRIPTION:Cooking Instructions for Smoothie Bowl:
-1. Follow standard prep for smoothie bowl.
-2. Heat or assemble as required.
-📝 Prepped during Midweek Meal Prep on Jul 19.
-
+DTEND;TZID=America/Toronto:20250719T060000
+SUMMARY:Breakfast
+DESCRIPTION:Breakfast as per meal plan.
 BEGIN:VALARM
 TRIGGER:-PT30M
+DESCRIPTION:Meal Reminder
 ACTION:DISPLAY
-DESCRIPTION:Breakfast: Smoothie Bowl
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:lunch-6@mealplan
-DTSTAMP:20250709T221434Z
 DTSTART;TZID=America/Toronto:20250719T120000
-DTEND;TZID=America/Toronto:20250719T123000
-SUMMARY:Lunch: Caprese Sandwich
-DESCRIPTION:Cooking Instructions for Caprese Sandwich:
-1. Follow standard prep for caprese sandwich.
-2. Heat or assemble as required.
-📝 Prepped during Midweek Meal Prep on Jul 19.
-
+DTEND;TZID=America/Toronto:20250719T120000
+SUMMARY:Lunch
+DESCRIPTION:Lunch as per meal plan.
 BEGIN:VALARM
 TRIGGER:-PT30M
+DESCRIPTION:Meal Reminder
 ACTION:DISPLAY
-DESCRIPTION:Lunch: Caprese Sandwich
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:dinner-6@mealplan
-DTSTAMP:20250709T221434Z
 DTSTART;TZID=America/Toronto:20250719T163000
-DTEND;TZID=America/Toronto:20250719T170000
-SUMMARY:Dinner: Veggie Tacos
-DESCRIPTION:Cooking Instructions for Veggie Tacos:
-1. Follow standard prep for veggie tacos.
-2. Heat or assemble as required.
-📝 Prepped during Midweek Meal Prep on Jul 19.
-
+DTEND;TZID=America/Toronto:20250719T163000
+SUMMARY:Dinner
+DESCRIPTION:Dinner as per meal plan.
 BEGIN:VALARM
 TRIGGER:-PT30M
+DESCRIPTION:Meal Reminder
 ACTION:DISPLAY
-DESCRIPTION:Dinner: Veggie Tacos
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:breakfast-7@mealplan
-DTSTAMP:20250709T221434Z
-DTSTART;TZID=America/Toronto:20250720T060000
-DTEND;TZID=America/Toronto:20250720T063000
-SUMMARY:Breakfast: Parfait
-DESCRIPTION:Cooking Instructions for Parfait:
-1. Follow standard prep for parfait.
-2. Heat or assemble as required.
-📝 Prepped during Midweek Meal Prep on Jul 20.
-
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Breakfast: Parfait
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-7@mealplan
-DTSTAMP:20250709T221434Z
-DTSTART;TZID=America/Toronto:20250720T120000
-DTEND;TZID=America/Toronto:20250720T123000
-SUMMARY:Lunch: Chicken Salad Wrap
-DESCRIPTION:Cooking Instructions for Chicken Salad Wrap:
-1. Follow standard prep for chicken salad wrap.
-2. Heat or assemble as required.
-📝 Prepped during Midweek Meal Prep on Jul 20.
-
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Lunch: Chicken Salad Wrap
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-7@mealplan
-DTSTAMP:20250709T221434Z
-DTSTART;TZID=America/Toronto:20250720T163000
-DTEND;TZID=America/Toronto:20250720T170000
-SUMMARY:Dinner: Gourmet Hamburgers
-DESCRIPTION:Cooking Instructions for Gourmet Hamburgers:
-1. Follow standard prep for gourmet hamburgers.
-2. Heat or assemble as required.
-📝 Prepped during Midweek Meal Prep on Jul 20.
-
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Dinner: Gourmet Hamburgers
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:breakfast-8@mealplan
-DTSTAMP:20250709T221434Z
-DTSTART;TZID=America/Toronto:20250721T060000
-DTEND;TZID=America/Toronto:20250721T063000
-SUMMARY:Breakfast: Scrambled Eggs
-DESCRIPTION:Cooking Instructions for Scrambled Eggs:
-1. Follow standard prep for scrambled eggs.
-2. Heat or assemble as required.
-📝 Prepped during Sunday Meal Prep on Jul 21.
-
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Breakfast: Scrambled Eggs
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-8@mealplan
-DTSTAMP:20250709T221434Z
-DTSTART;TZID=America/Toronto:20250721T120000
-DTEND;TZID=America/Toronto:20250721T123000
-SUMMARY:Lunch: Asian Chicken Wraps
-DESCRIPTION:Cooking Instructions for Asian Chicken Wraps:
-1. Follow standard prep for asian chicken wraps.
-2. Heat or assemble as required.
-📝 Prepped during Sunday Meal Prep on Jul 21.
-
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Lunch: Asian Chicken Wraps
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-8@mealplan
-DTSTAMP:20250709T221434Z
-DTSTART;TZID=America/Toronto:20250721T163000
-DTEND;TZID=America/Toronto:20250721T170000
-SUMMARY:Dinner: Stuffed Peppers
-DESCRIPTION:Cooking Instructions for Stuffed Peppers:
-1. Follow standard prep for stuffed peppers.
-2. Heat or assemble as required.
-📝 Prepped during Sunday Meal Prep on Jul 21.
-
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Dinner: Stuffed Peppers
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:breakfast-9@mealplan
-DTSTAMP:20250709T221434Z
-DTSTART;TZID=America/Toronto:20250722T060000
-DTEND;TZID=America/Toronto:20250722T063000
-SUMMARY:Breakfast: Toast & Sausage
-DESCRIPTION:Cooking Instructions for Toast & Sausage:
-1. Follow standard prep for toast & sausage.
-2. Heat or assemble as required.
-📝 Prepped during Sunday Meal Prep on Jul 22.
-
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Breakfast: Toast & Sausage
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-9@mealplan
-DTSTAMP:20250709T221434Z
-DTSTART;TZID=America/Toronto:20250722T120000
-DTEND;TZID=America/Toronto:20250722T123000
-SUMMARY:Lunch: Leftover Stuffed Bowl
-DESCRIPTION:Cooking Instructions for Leftover Stuffed Bowl:
-1. Follow standard prep for leftover stuffed bowl.
-2. Heat or assemble as required.
-📝 Prepped during Sunday Meal Prep on Jul 22.
-
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Lunch: Leftover Stuffed Bowl
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-9@mealplan
-DTSTAMP:20250709T221434Z
-DTSTART;TZID=America/Toronto:20250722T163000
-DTEND;TZID=America/Toronto:20250722T170000
-SUMMARY:Dinner: Roast Pork & Veg
-DESCRIPTION:Cooking Instructions for Roast Pork & Veg:
-1. Follow standard prep for roast pork & veg.
-2. Heat or assemble as required.
-📝 Prepped during Sunday Meal Prep on Jul 22.
-
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Dinner: Roast Pork & Veg
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:breakfast-10@mealplan
-DTSTAMP:20250709T221434Z
-DTSTART;TZID=America/Toronto:20250723T060000
-DTEND;TZID=America/Toronto:20250723T063000
-SUMMARY:Breakfast: Yogurt & Chia
-DESCRIPTION:Cooking Instructions for Yogurt & Chia:
-1. Follow standard prep for yogurt & chia.
-2. Heat or assemble as required.
-📝 Prepped during Sunday Meal Prep on Jul 23.
-
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Breakfast: Yogurt & Chia
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-10@mealplan
-DTSTAMP:20250709T221434Z
-DTSTART;TZID=America/Toronto:20250723T120000
-DTEND;TZID=America/Toronto:20250723T123000
-SUMMARY:Lunch: Cheddar Sandwich
-DESCRIPTION:Cooking Instructions for Cheddar Sandwich:
-1. Follow standard prep for cheddar sandwich.
-2. Heat or assemble as required.
-📝 Prepped during Sunday Meal Prep on Jul 23.
-
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Lunch: Cheddar Sandwich
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-10@mealplan
-DTSTAMP:20250709T221434Z
-DTSTART;TZID=America/Toronto:20250723T163000
-DTEND;TZID=America/Toronto:20250723T170000
-SUMMARY:Dinner: Teriyaki Chicken Stir Fry
-DESCRIPTION:Cooking Instructions for Teriyaki Chicken Stir Fry:
-1. Follow standard prep for teriyaki chicken stir fry.
-2. Heat or assemble as required.
-📝 Prepped during Sunday Meal Prep on Jul 23.
-
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Dinner: Teriyaki Chicken Stir Fry
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:breakfast-11@mealplan
-DTSTAMP:20250709T221434Z
-DTSTART;TZID=America/Toronto:20250724T060000
-DTEND;TZID=America/Toronto:20250724T063000
-SUMMARY:Breakfast: Cottage Cheese
-DESCRIPTION:Cooking Instructions for Cottage Cheese:
-1. Follow standard prep for cottage cheese.
-2. Heat or assemble as required.
-📝 Prepped during Midweek Meal Prep on Jul 24.
-
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Breakfast: Cottage Cheese
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-11@mealplan
-DTSTAMP:20250709T221434Z
-DTSTART;TZID=America/Toronto:20250724T120000
-DTEND;TZID=America/Toronto:20250724T123000
-SUMMARY:Lunch: Caprese Sandwich
-DESCRIPTION:Cooking Instructions for Caprese Sandwich:
-1. Follow standard prep for caprese sandwich.
-2. Heat or assemble as required.
-📝 Prepped during Midweek Meal Prep on Jul 24.
-
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Lunch: Caprese Sandwich
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-11@mealplan
-DTSTAMP:20250709T221434Z
-DTSTART;TZID=America/Toronto:20250724T163000
-DTEND;TZID=America/Toronto:20250724T170000
-SUMMARY:Dinner: Veggie Bowl
-DESCRIPTION:Cooking Instructions for Veggie Bowl:
-1. Follow standard prep for veggie bowl.
-2. Heat or assemble as required.
-📝 Prepped during Midweek Meal Prep on Jul 24.
-
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Dinner: Veggie Bowl
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:breakfast-12@mealplan
-DTSTAMP:20250709T221434Z
-DTSTART;TZID=America/Toronto:20250725T060000
-DTEND;TZID=America/Toronto:20250725T063000
-SUMMARY:Breakfast: Pancakes
-DESCRIPTION:Cooking Instructions for Pancakes:
-1. Follow standard prep for pancakes.
-2. Heat or assemble as required.
-📝 Prepped during Midweek Meal Prep on Jul 25.
-
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Breakfast: Pancakes
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-12@mealplan
-DTSTAMP:20250709T221434Z
-DTSTART;TZID=America/Toronto:20250725T120000
-DTEND;TZID=America/Toronto:20250725T123000
-SUMMARY:Lunch: Chicken Wrap
-DESCRIPTION:Cooking Instructions for Chicken Wrap:
-1. Follow standard prep for chicken wrap.
-2. Heat or assemble as required.
-📝 Prepped during Midweek Meal Prep on Jul 25.
-
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Lunch: Chicken Wrap
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-12@mealplan
-DTSTAMP:20250709T221434Z
-DTSTART;TZID=America/Toronto:20250725T163000
-DTEND;TZID=America/Toronto:20250725T170000
-SUMMARY:Dinner: Tikka Masala Bowl
-DESCRIPTION:Cooking Instructions for Tikka Masala Bowl:
-1. Follow standard prep for tikka masala bowl.
-2. Heat or assemble as required.
-📝 Prepped during Midweek Meal Prep on Jul 25.
-
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Dinner: Tikka Masala Bowl
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:breakfast-13@mealplan
-DTSTAMP:20250709T221434Z
-DTSTART;TZID=America/Toronto:20250726T060000
-DTEND;TZID=America/Toronto:20250726T063000
-SUMMARY:Breakfast: Oatmeal
-DESCRIPTION:Cooking Instructions for Oatmeal:
-1. Follow standard prep for oatmeal.
-2. Heat or assemble as required.
-📝 Prepped during Midweek Meal Prep on Jul 26.
-
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Breakfast: Oatmeal
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:lunch-13@mealplan
-DTSTAMP:20250709T221434Z
-DTSTART;TZID=America/Toronto:20250726T120000
-DTEND;TZID=America/Toronto:20250726T123000
-SUMMARY:Lunch: Leftover Tikka
-DESCRIPTION:Cooking Instructions for Leftover Tikka:
-1. Follow standard prep for leftover tikka.
-2. Heat or assemble as required.
-📝 Prepped during Midweek Meal Prep on Jul 26.
-
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Lunch: Leftover Tikka
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-13@mealplan
-DTSTAMP:20250709T221434Z
-DTSTART;TZID=America/Toronto:20250726T163000
-DTEND;TZID=America/Toronto:20250726T170000
-SUMMARY:Dinner: Caprese Salad
-DESCRIPTION:Cooking Instructions for Caprese Salad:
-1. Follow standard prep for caprese salad.
-2. Heat or assemble as required.
-📝 Prepped during Midweek Meal Prep on Jul 26.
-
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Dinner: Caprese Salad
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:prep-20250713@mealplan
-DTSTAMP:20250709T221434Z
 DTSTART;TZID=America/Toronto:20250713T090000
 DTEND;TZID=America/Toronto:20250713T100000
-SUMMARY:Sunday Meal Prep
-DESCRIPTION:🍳 Sunday Meal Prep:
-
-What to prep:
-- Portion yogurt and berries
-- Cook quinoa
-- Marinate chicken thighs
-
-🧊 Storage:
-Use airtight containers. Label and refrigerate (max 3–4 days).
+SUMMARY:Sunday Prep
+DESCRIPTION:Sunday Prep – Refer to PDF for instructions.
 BEGIN:VALARM
 TRIGGER:-PT30M
+DESCRIPTION:Meal Prep Reminder
 ACTION:DISPLAY
-DESCRIPTION:Sunday Meal Prep
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:prep-20250716@mealplan
-DTSTAMP:20250709T221434Z
 DTSTART;TZID=America/Toronto:20250716T160000
 DTEND;TZID=America/Toronto:20250716T170000
-SUMMARY:Midweek Meal Prep
-DESCRIPTION:🍳 Midweek Meal Prep:
-
-What to prep:
-- Chop veggies for stir fry
-- Boil pasta
-- Grill chicken
-
-🧊 Storage:
-Use airtight containers. Label and refrigerate (max 3–4 days).
+SUMMARY:Wednesday Prep
+DESCRIPTION:Wednesday Prep – Refer to PDF for instructions.
 BEGIN:VALARM
 TRIGGER:-PT30M
+DESCRIPTION:Meal Prep Reminder
 ACTION:DISPLAY
-DESCRIPTION:Midweek Meal Prep
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-UID:prep-20250720@mealplan
-DTSTAMP:20250709T221434Z
-DTSTART;TZID=America/Toronto:20250720T090000
-DTEND;TZID=America/Toronto:20250720T100000
-SUMMARY:Sunday Meal Prep
-DESCRIPTION:🍳 Sunday Meal Prep:
-
-What to prep:
-- Prep parfait layers
-- Marinate pork chops
-- Roast sweet potatoes
-
-🧊 Storage:
-Use airtight containers. Label and refrigerate (max 3–4 days).
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Sunday Meal Prep
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:prep-20250723@mealplan
-DTSTAMP:20250709T221434Z
-DTSTART;TZID=America/Toronto:20250723T160000
-DTEND;TZID=America/Toronto:20250723T170000
-SUMMARY:Midweek Meal Prep
-DESCRIPTION:🍳 Midweek Meal Prep:
-
-What to prep:
-- Wash lettuce
-- Cook beans
-- Assemble taco filling
-
-🧊 Storage:
-Use airtight containers. Label and refrigerate (max 3–4 days).
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Midweek Meal Prep
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:prep-20250720@mealplan
-DTSTAMP:20250709T223113Z
-DTSTART;TZID=America/Toronto:20250720T090000
-DTEND;TZID=America/Toronto:20250720T100000
-SUMMARY:Sunday Meal Prep
-DESCRIPTION:🍽️ Sunday Meal Prep (for Jul 20–20):
-🧑‍🍳 What You’ll Be Prepping:
-- Assemble parfait jars
-- Slice cucumbers, tomatoes, onions
-- Marinate pork chops (olive oil, garlic, rosemary)
-- Roast sweet potato cubes (cool and store)
-- Wash lettuce and prep for wraps
-- Portion cheese slices
-- Hard boil eggs
-
-🧂 Seasoning & Marinade:
-- Pork marinade: 2 tbsp olive oil, 1 clove garlic, 1/2 tsp rosemary
-- Veg: olive oil, salt, pepper
-
-🧊 Storage:
-- Parfaits: 3 days in fridge
-- Cooked veg: up to 4 days
-- Marinated pork: use within 2 days
-- Cheese and veggies in airtight containers
-
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Sunday Meal Prep
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:prep-20250723@mealplan
-DTSTAMP:20250709T223113Z
-DTSTART;TZID=America/Toronto:20250723T160000
-DTEND;TZID=America/Toronto:20250723T170000
-SUMMARY:Midweek Meal Prep
-DESCRIPTION:🍽️ Midweek Meal Prep (for Jul 23–23):
-🧑‍🍳 What You’ll Be Prepping:
-- Wash and chop bell peppers, onions, and romaine
-- Mix taco filling (beans, spices)
-- Cook rice for bowls
-- Portion yogurt and fruit
-- Grill extra chicken breasts
-- Slice burger toppings (lettuce, tomato, onion, pickles)
-
-🧂 Seasoning & Marinade:
-- Taco mix: 1 tsp chili powder, 1/2 tsp cumin, pinch of garlic powder
-- Chicken: salt, pepper, lemon juice
-
-🧊 Storage:
-- Beans and rice: airtight containers, 3–4 days
-- Burger toppings: 2–3 days
-- Yogurt + fruit: 3 days
-
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Midweek Meal Prep
-END:VALARM
-END:VEVENT
-
 END:VCALENDAR
